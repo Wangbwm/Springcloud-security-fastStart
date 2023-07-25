@@ -1,0 +1,30 @@
+14:43:01.163 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.7.Final
+14:43:01.605 [restartedMain] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\Wangbw\nacos\config
+14:43:01.622 [restartedMain] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+14:43:01.639 [restartedMain] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+14:43:01.657 [restartedMain] INFO  c.p.a.ProjectAuthApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+14:43:02.924 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9200"]
+14:43:02.925 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:43:02.925 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+14:43:02.983 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:43:03.103 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:45:07.761 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.7.Final
+14:45:08.189 [restartedMain] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\Wangbw\nacos\config
+14:45:08.203 [restartedMain] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+14:45:08.220 [restartedMain] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+14:45:08.246 [restartedMain] INFO  c.m.p.a.ProjectAuthApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+14:50:54.772 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.7.Final
+14:50:55.585 [restartedMain] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\Wangbw\nacos\config
+14:50:55.613 [restartedMain] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+14:50:55.640 [restartedMain] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+14:50:55.699 [restartedMain] INFO  c.m.p.a.ProjectAuthApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+14:59:37.087 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.7.Final
+14:59:37.851 [restartedMain] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\Wangbw\nacos\config
+14:59:37.877 [restartedMain] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+14:59:37.907 [restartedMain] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+14:59:37.938 [restartedMain] INFO  c.m.p.a.ProjectAuthApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:02:50.999 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.7.Final
+15:02:51.717 [restartedMain] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\Wangbw\nacos\config
+15:02:51.731 [restartedMain] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+15:02:51.750 [restartedMain] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+15:02:51.769 [restartedMain] INFO  c.m.p.a.ProjectAuthApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
