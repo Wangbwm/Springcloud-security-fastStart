@@ -7,7 +7,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modules>
-        <module>project-api-test</module>
         <module>project-api-system</module>
     </modules>
     <packaging>pom</packaging>

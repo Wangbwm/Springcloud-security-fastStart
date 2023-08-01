@@ -8,7 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modules>
-        <module>project-system</module>
+        <module>project-model-system</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>project-models</artifactId>
